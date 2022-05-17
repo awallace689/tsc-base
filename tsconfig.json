@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "strict": true,
+    "alwaysStrict": true
+  },
+
+  "include": ["src/**/*", "tests/**/*"]
+}
